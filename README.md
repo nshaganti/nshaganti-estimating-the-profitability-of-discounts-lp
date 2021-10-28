@@ -1,2 +1,2 @@
-# understanding-the-treatment-assignment-mechanism-lp-author
-Repository for liveProject: Understanding the Treatment Assignment Mechanism
+# estimating-the-profitability-of-discounts-lp-author
+Repository for liveProject: Estimating the Profitability of Discounts
